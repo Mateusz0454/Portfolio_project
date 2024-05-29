@@ -1,6 +1,6 @@
 # React Portfolio
 
-First website portfolio
+First website example portfolio
 
 
 ## Tech Stack
